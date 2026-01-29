@@ -1,2 +1,2 @@
-# Twitter-Project
+# Twitter-Lab
 This is a mini twitter clone
